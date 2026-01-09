@@ -1,6 +1,6 @@
-e
+
 # 🚀 Mastering Lambda
-<img width="1312" height="736" alt="A vibrant YouTube thumbnail featuring a man, the…" src="https://github.com/user-attachments/assets/d894a2c1-f0b0-479a-9e1b-a0d8c08e5e80" />
+<img width="960" height="540" alt="emini" src="https://github.com/user-attachments/assets/6e2ddb0a-1835-47e5-8edd-9d8e4f3052f0" />
 
 
 ### Real-World AWS Lambda Projects | Production-Grade | Event-Driven Architecture
