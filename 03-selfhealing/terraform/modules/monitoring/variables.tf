@@ -1,0 +1,2 @@
+
+variable "record_name" {}
