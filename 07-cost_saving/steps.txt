@@ -1,0 +1,20 @@
+Phase:1
+- Create  idle Resource
+    EBS volume
+Create DynamoDB for storing the idle information "ZombieResourceTracker"
+Create SNS for sending notification 
+
+Phase:2
+- create IAM role and add
+    lambdabasic role
+    sns full
+    dynamodb full
+    ec2 full
+
+Phase:3
+- Create lambda function and be sure of mention the environmental variables
+    TABLE_NAME
+    SNS_TOPIC_ARN
+
+Phase: 4
+- Create schedule, Event Bridge 
